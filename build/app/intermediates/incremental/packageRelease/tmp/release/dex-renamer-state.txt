@@ -1,0 +1,4 @@
+#Mon Oct 10 20:09:06 YEKT 2022
+base.0=/home/vladk/git/flutter/waifu_search/waifu_searcher/build/app/intermediates/dex/release/minifyReleaseWithR8/classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
